@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">Custom Layouts</string>
     <string name="action_settings">Settings</string>
+    <string name="sample_paragraph">This is a sample layout. This can be used
+        over again by inflating in whatever activity we want to use it in and
+        implementing its methods-onClickListener for buttons.
+    </string>
+    <string name="title">Custom Layout</string>
 </resources>
